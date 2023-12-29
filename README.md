@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **kaushalkuwar5802@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1s2wvsC-6_dtlYY5cj8JesztrHhXS6xvHua2egDQNeio/edit?usp=sharing](https://docs.google.com/document/d/1s2wvsC-6_dtlYY5cj8JesztrHhXS6xvHua2egDQNeio/edit?usp=sharing)
-
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1s2wvsC-6_dtlYY5cj8JesztrHhXS6xvHua2egDQNeio/edit?usp=sharing" target="blank">Kaushal Kuwar Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaushalk05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushalk05" height="30" width="40" /></a>
