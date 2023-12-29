@@ -6,8 +6,6 @@ I'm eager to leverage my skills and experience to make a positive impact in the 
 
 Data Analysis: I can clean, wrangle, and analyze data to extract meaningful insights and inform decision-making. 📊
 Project Management: I'm adept at planning, executing, and delivering projects on time and within budget. 🧭
-Software Development: I have experience building applications using Flutter and Firebase. 📱
-Communication: I'm a strong communicator with excellent written and verbal skills. 🗣️
 Leadership: I have a proven track record of leading and motivating teams. 💪
 
 ✨ My Projects:
