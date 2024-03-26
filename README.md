@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP, Big Data, OpenCV**
 
-- 📫 How to reach me **kaushalkuwar5802@gmail.com**
+- 📫 How to reach me **kaushal.kuwar@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
